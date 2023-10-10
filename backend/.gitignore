@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### env prop ###
-/src/main/resources/env.properties
+/src/main/resources/application-dev.properties
 

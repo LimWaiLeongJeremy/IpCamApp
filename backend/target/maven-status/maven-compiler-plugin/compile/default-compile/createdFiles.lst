@@ -1,1 +1,3 @@
+com\ipcam\backend\controllers\VideoProxyController.class
 com\ipcam\backend\BackendApplication.class
+com\ipcam\backend\services\CamService.class
